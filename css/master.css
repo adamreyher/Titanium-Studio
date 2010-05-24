@@ -34,15 +34,20 @@ div#header {
 	margin-bottom: 0;
 	float: left;
 }
-div#header-box-home {
+div#header-box-home, div#header-box-credits {
 	width: 940px;
 	height: 300px;
 	background: #202020;
 	clear: both;
 	text-align: left;
+}
+div#header-box-home {
 	background: url(../images/main/headers/home-orange-1.png) no-repeat;
 }
-div#header-box-home div.content {
+div#header-box-credits {
+	background: url(../images/main/headers/header-credits.png) no-repeat;
+}
+div#header-box-home, div#header-box-credits div.content {
 	text-indent: -9999px;
 }
 div#header-box-home div.content h2 {
