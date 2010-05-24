@@ -13,21 +13,7 @@
 
 	<script type="text/javascript" src="/lib/js/jquery-1.4.2.min.js"></script>
 	<script type="text/javascript" src="/lib/js/blend/jquery.blend.js"></script>
-	<script type="text/javascript">
-		$(document).ready(function(){
-
-			$("#nav a").blend();
-			$("#demo3 a").blend({pulse:true});
-			$("#demo4 a").blend({reverse:true});
-		});
-	</script>
-
-	<style type='text/css'>
-        
-
-		</style>
-		
-
+	<script type="text/javascript" src="/lib/js/studio.js"></script>
   </head>
   <body>
 	  <div id="wrap">
