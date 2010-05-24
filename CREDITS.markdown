@@ -38,6 +38,12 @@ backgrounds.
 - License: Creative Commons Attribution-NoDerivative Works 3.0
 - License URL: <http://creativecommons.org/licenses/by-nd/3.0/>
 
+### New Frontiers
+
+- Copyright: azrainman <http://azrainman.deviantart.com/art/New-Frontiers-104637199>
+- License: Creative Commons Attribution 3.0
+- License URL: <http://creativecommons.org/licenses/by/3.0/>
+
 #### Rozšíøená sada sociálních ikon | Extended set of social icons
 
 - Copyright: Lenka Melèáková <http://www.profimagazin.cz>
