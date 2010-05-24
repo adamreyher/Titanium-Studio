@@ -111,8 +111,50 @@ require('includes/header.php');
 					  <a name="images-icons"><h2>Images &amp; <span class="accent">Icons</span></h2></a>
 					  <p>
 						  <img class="right" src="/images/icons/crystal/colors.png" alt="Icons &amp; Colors"/>
-						  The output of this website (ie. what's displayed on the screen) is covered under a different license than the source code and markup. Unless otherwise noted below, the content of this website is released under the <a href="http://creativecommons.org/licenses/by/3.0/" rel="external">Creative Commons Attribution 3.0</a> license.
+						  In addition to our own creative work, this website makes use of several different images and icons which have been generously made available under open licenses. Everything not attributed below is released under the <a href="http://creativecommons.org/licenses/by/3.0/" rel="external">Creative Commons Attribution 3.0</a> license.
 					  </p>
+					  <h3 class="arrow">"Orange Explosion"</h3>
+					  <ul class="credits">
+						  <li><strong>Copyright:</strong> KaaPaaw <a href="http://kaapaaw.deviantart.com/art/Vector-Explosion-91584760" rel="external">http://kaapaaw.deviantart.com/art/Vector-Explosion-91584760</a>
+						  <li><strong>License:</strong> Creative Commons Attribution-NoDerivative Works 3.0
+						  <li><strong>License URL:</strong> <a href="http://creativecommons.org/licenses/by-nd/3.0/" rel="external">http://creativecommons.org/licenses/by-nd/3.0/</a>
+					  </ul>
+					  <h3 class="arrow">"New Frontiers"</h3>
+					  <ul class="credits">
+						  <li><strong>Copyright:</strong> azrainman <a href="http://azrainman.deviantart.com/art/New-Frontiers-104637199" rel="external">http://azrainman.deviantart.com/art/New-Frontiers-104637199</a>
+						  <li><strong>License:</strong> Creative Commons Attribution 3.0
+						  <li><strong>License URL:</strong> <a href="http://creativecommons.org/licenses/by/3.0/" rel="external">http://creativecommons.org/licenses/by/3.0/</a>
+					  </ul>
+					  <h3 class="arrow"><span class="definition define-socialicons">Rozšíøená sada sociálních ikon</span></h3>
+					  <ul class="credits">
+						  <li><strong>Copyright:</strong> Lenka Melèáková <a href="http://www.profimagazin.cz" rel="external">http://www.profimagazin.cz</a>
+						  <li><strong>License:</strong> Creative Commons Attribution-NoDerivative Works 3.0
+						  <li><strong>License URL:</strong> <a href="http://creativecommons.org/licenses/by-nd/3.0/" rel="external">http://creativecommons.org/licenses/by-nd/3.0/</a>
+					  </ul>
+					  <h3 class="arrow">Crystal Project Icons</h3>
+					  <ul class="credits">
+						  <li><strong>Copyright:</strong> Everaldo.com <a href="http://www.everaldo.com/crystal/" rel="external">http://www.everaldo.com/crystal/</a>
+						  <li><strong>License:</strong> GNU Lesser General Public License 2.1
+						  <li><strong>License URL:</strong> <a href="http://opensource.org/licenses/lgpl-2.1.php" rel="external">http://opensource.org/licenses/lgpl-2.1.php</a>
+					  </ul>
+					  <h3 class="arrow">Silk Icons</h3>
+					  <ul class="credits">
+						  <li><strong>Copyright:</strong> Mark James <a href="http://www.famfamfam.com/" rel="external">http://www.famfamfam.com/</a>
+						  <li><strong>License:</strong> Creative Commons Attribution 3.0
+						  <li><strong>License URL:</strong> <a href="http://creativecommons.org/licenses/by/3.0/" rel="external">http://creativecommons.org/licenses/by/3.0/</a>
+					  </ul>
+					  <h3 class="arrow">This is ART! Icons</h3>
+					  <ul class="credits">
+						  <li><strong>Copyright:</strong> Svengraph <a href="http://svengraph.deviantart.com/art/This-is-ART-Icons-155844990" rel="external">http://svengraph.deviantart.com/art/This-is-ART-Icons-155844990</a>
+						  <li><strong>License:</strong> Creative Commons Attribution 3.0
+						  <li><strong>License URL:</strong> <a href="http://creativecommons.org/licenses/by/3.0/" rel="external">http://creativecommons.org/licenses/by/3.0/</a>
+					  </ul>
+					  <h3 class="arrow">Creative Commons Logo</h3>
+					  <ul class="credits">
+						  <li><strong>Copyright:</strong> Creative Commons <a href="http://creativecommons.org" rel="external">http://creativecommons.org</a>
+						  <li><strong>License:</strong> Creative Commons Attribution 3.0
+						  <li><strong>License URL:</strong> <a href="http://creativecommons.org/licenses/by/3.0/" rel="external">http://creativecommons.org/licenses/by/3.0/</a>
+					  </ul>
 				  </div>
 			  </div>
 		  </div>
