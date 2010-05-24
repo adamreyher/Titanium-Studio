@@ -10,7 +10,7 @@ licensing reflects this.
 
 Clients of Titanium Studio are provided with the option of utilizing Open Source
 tools in the production of their website, and are encouraged to take advantage
-of the many benefits this offers.  Clients are encourged to also license their
+of the many benefits this offers.  Clients are encouraged to also license their
 websites and source accordingly.
 
 Using the Source

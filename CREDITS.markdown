@@ -9,7 +9,7 @@ Please see LICENSE.markdown for Titanium Studio's licensing details.
 External Author Credits
 -----------------------
 
-The following is a copyrehensive list of all external (non-original) work being
+The following is a comprehensive list of all external (non-original) work being
 utilized in either the Titanium Studio source code or in the output of the
 website (inclusive of images).
 
