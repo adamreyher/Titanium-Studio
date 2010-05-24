@@ -22,7 +22,7 @@ development. jQuery is designed to change the way that you write JavaScript.
 - License: MIT License
 - License URL: <http://www.opensource.org/licenses/mit-license.php>
 
-### jQuery Blend
+### Blend
 A jQuery based animation/effects, progressive enhancement plugin for CSS
 backgrounds.
 
@@ -30,7 +30,7 @@ backgrounds.
 - License: MIT License
 - License URL: <http://www.opensource.org/licenses/mit-license.php>
 
-### jquery.qtip
+### qTip
 qTip is an advanced tooltip plugin for the ever popular jQuery JavaScript
 framework. Built from the ground up to be user friendly, yet feature rich,
 qTip provides you with tonnes of features like rounded corners and speech

@@ -165,12 +165,18 @@ div#body h2 {
 div#body h2 span.accent {
 	color: #000;
 }
+div#body h3 {
+	font-size: 1.5em;
+	font-weight: normal;
+}
 
 div.box {
 	padding-bottom: 20px;
 }
 
 div.encase {
+	clear: both;
+	padding-bottom: 20px;
 }
 
 div#social-media {
@@ -183,14 +189,34 @@ img.right {
 }
 img.left {
 	float: left;
-	margin: 0em 0 0em 0;
+	margin: 0em 1.2em 0em 0;
+}
+
+h3.arrow {
+	padding-left: 25px;
+	background: url(../images/icons/crystal/1rightarrow.png) no-repeat center left;
+	margin: 20px 0 20px 0;
+}
+div#body ul.credits {
+	margin-left: 3em;
+	font-size: 0.9em;
+}
+div#body ul.credits a {
+	font-size: 1em;
 }
 
 /*
+ *	Definitions
+ */
+ span.definition {
+	 border-bottom: 1px dashed;
+}
+
 /*
-/* Footer
-/*
-*/
+ *
+ * Footer
+ *
+ */
 
 div#footer {
 	clear: both;
