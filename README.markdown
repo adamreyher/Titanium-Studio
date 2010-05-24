@@ -27,3 +27,8 @@ Licensing
 ---------
 
 Please see LICENSE.markdown for full licensing details of this source code.
+
+Credits
+-------
+
+Please see CREDITS.markdown for full source credits.
