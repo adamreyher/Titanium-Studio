@@ -247,3 +247,11 @@ div#f-contact-info {
 div#copyright img, div#f-contact-info img {
 	vertical-align: text-top;
 }
+
+/*
+ * Misc
+ */
+
+ div#iewarning {
+	 margin-bottom: 20px;
+}
