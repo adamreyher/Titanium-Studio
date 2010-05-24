@@ -6,7 +6,7 @@
 
 $pageTitle = (string) 'Licensing &amp; Credits';
 
-require('/includes/header.php');
+require('includes/header.php');
 ?>
 		  <div id="header-box-credits">
 			  <div class="content">
@@ -40,35 +40,42 @@ require('/includes/header.php');
 
 			  <div class="encase">
 				  <div class="box" style="float: left; width: 440px;">
-					  <h2>Marketing by <span class="accent">Design</span></h2>
+					  <h2>Website <span class="accent">Source Code</span></h2>
 					  <p>
-						  Aesthetic. Affordant. Identifying unique needs to build end-to-end solutions. These are just a few of our marketing philosophies. Titanium Studio specializes in identifying your company's target audience and developing a website and social media marketing strategy that not only puts you in contact with your customers, but more importantly enables <strong>two-way communication</strong>.
+						  <a href="http://github.com/adamreyher/Titanium-Studio" title="Repository @ GitHub" rel="external"><img class="right" src="/images/icons/thisisart/Coding.png" /></a>
+						  We make this website's full source, markup, and images available for download. <a href="#" class="tooltip-whysource"><img src="/images/icons/silk/help.png" alt="Why?" /></a> We've certainly found it useful. Maybe you will, too. Head on over to our repository on <a href="http://github.com/adamreyher/Titanium-Studio" rel="external">GitHub</a>.
 					  </p>
+					  <p>
+						  What's Git? Check out the free <a href="http://progit.org/book/" title="Pro Git" rel="external">Pro Git</a> book.
+					  </p>
+						  
 				  </div>
 				  <div class="box" style="float: right; width: 440px;">
-					  <h2>Stay in <span class="accent">Touch</span></h2>
-					  <div id="social-media">
-						  <a href="#" alt="Add us on Facebook"><img src="/images/icons/facebook-64.png" title="Add us on Facebook" alt="Add us on Facebook" /></a>
-						  <br />
-						  <br />
-						  <a href="#" alt="Follow uso n Twitter"><img src="/images/icons/twitter-64.png" title="Follow us on Twitter" alt="Follow us on Twitter" /></a>
-					  </div>
+					  <h2>Source Code <span class="accent">License</span></h2>
 					  <p>
-						Social media services (such as Facebook, Twitter, and YouTube to name a few) are a key element to developing and maintaing an online brand and a relationship with your customers.
+						  <a href="http://www.opensource.org/licenses/mit-license.php" title="MIT License"><img class="right" src="/images/icons/crystal/info.png" /></a>
+					      The source code of this website is released under the popular <a href="http://www.opensource.org/licenses/mit-license.php" title="MIT License">MIT License</a>.
 					  </p>
 					  <p>
-						  Stay in touch with Titanium Studio by adding us on Facebook or following our Twitter feed with the buttons to the right.
+						  What does this mean for you? Read the license to find out--it's really short! But basically, as long as you leave our copyright in place, you can use it however you want.
 					  </p>
 				  </div>
 			  </div>
-			  <div class="box" style="clear: both;">
-				  <h2>Marketing by <span class="accent">Design</span></h2>
-				  <p>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin congue pharetra erat sit amet euismod. Phasellus aliquam dapibus porta. Integer imperdiet erat sed mi dignissim ut congue urna luctus. Aenean fermentum aliquet faucibus. Quisque luctus, risus vel adipiscing pretium, nibh orci sollicitudin lacus, lacinia ornare arcu enim sed tellus. Morbi euismod congue augue eget iaculis. Duis ligula leo, rhoncus eget rhoncus non, porttitor vel sem. Cras euismod augue nec nunc gravida sit amet iaculis enim accumsan. Praesent condimentum mollis tellus, a porttitor turpis pulvinar non. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce auctor tincidunt lectus a luctus. Quisque quis scelerisque felis. Vestibulum sit amet lacus nunc, ut vehicula arcu. Proin tincidunt risus non metus commodo quis auctor arcu consectetur. Etiam dignissim dictum enim nec pulvinar.
-				  </p>
+			  <div class="encase">
+				  <div class="box" style="float: left;">
+					  <h2>Website <span class="accent">Content</span></h2>
+					  <p>
+						  <a href="http://github.com/adamreyher/Titanium-Studio" title="Repository @ GitHub" rel="external"><img class="right" src="/images/icons/thisisart/Coding.png" /></a>
+						  We make this website's full source, markup, and images available for download. We've certainly found it useful. Maybe you will, too. Head on over to our repository on <a href="http://github.com/adamreyher/Titanium-Studio" rel="external">GitHub</a>.
+					  </p>
+					  <p>
+						  What's Git? Check out the free <a href="http://progit.org/book/" title="Pro Git" rel="external">Pro Git</a> book.
+					  </p>
+
+				  </div>
 			  </div>
 		  </div>
 
 		  <?php
 
-			include("/includes/footer.php");
+			include('includes/footer.php');

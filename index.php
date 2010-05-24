@@ -6,7 +6,7 @@
 
 $pageTitle = (string) 'Marketing through design and social media';
 
-require('/includes/header.php');
+require('includes/header.php');
 ?>
 		  <div id="header-box-home">
 			  <div class="content">

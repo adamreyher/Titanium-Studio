@@ -9,10 +9,16 @@ body {
 	margin: 0;
 	padding: 0;
 	font-family: Helvetica, Arial, sans-serif;
-	font-size: 12pt;
-	line-height: 1.45em;
+	font-size: 11pt;
+	line-height: 1.65em;
 	color: #666;
 	height: 100%;
+}
+a:link, a:visited, a:active {
+	font-size: 0.9em;
+	color: #003c6a;
+	font-weight: bold;
+	text-decoration: none;
 }
 
 a:hover {
@@ -49,9 +55,6 @@ div#header-box-credits {
 }
 div#header-box-home, div#header-box-credits div.content {
 	text-indent: -9999px;
-}
-div#header-box-home div.content h2 {
-	font-size: 1.7em;
 }
 
 
@@ -153,18 +156,34 @@ div#body p {
 
 div#body h2 {
 	color: #305faa;
-	font-size: 1.3em;
+	font-size: 1.4em;
 	font-family: "Trebuchet MS", Georgia, sans-serif;
 	padding-bottom: 5px;
-	margin: 0.5em 0 0.7em 0;
+	margin: 0em 0.5em 0.7em 0;
 	border-bottom: 1px solid #bbb;
 }
 div#body h2 span.accent {
 	color: #000;
 }
+
+div.box {
+	padding-bottom: 20px;
+}
+
+div.encase {
+}
+
 div#social-media {
 	float: right;
-	margin: 0 0.7em 0 0.3em;
+	margin: 0 1em 0 0.9em;
+}
+img.right {
+	float: right;
+	margin: 0em 0.5em 0em 0.5em;
+}
+img.left {
+	float: left;
+	margin: 0em 0 0em 0;
 }
 
 /*
@@ -174,8 +193,9 @@ div#social-media {
 */
 
 div#footer {
+	clear: both;
 	width: 916px;
-	font-size: 0.7em;
+	font-size: 0.75em;
 	font-family: Arial, sans-serif;
 	border-top: 1px solid #bbb;
 	margin-top: 50px;
@@ -187,6 +207,9 @@ div#footer {
 
 }
 div#footer a, div#footer a:visited, div#footer a:active {
+	font-size: 1em;
+	font-weight: normal;
+	text-decoration: underline;
 	color: #666;
 }
 div#copyright {
