@@ -18,7 +18,7 @@ jQuery is a fast and concise JavaScript Library that simplifies HTML document
 traversing, event handling, animating, and Ajax interactions for rapid web
 development. jQuery is designed to change the way that you write JavaScript.
 
-- Author/Copyright: 2010, John Resig <http://www.jquery.com>
+- Copyright: 2010, John Resig <http://www.jquery.com>
 - License: MIT License
 - License URL: <http://github.com/jquery/jquery/blob/master/MIT-LICENSE.txt>
 
@@ -40,12 +40,12 @@ backgrounds.
 
 #### Rozšíøená sada sociálních ikon | Extended set of social icons
 
-- Author/Copyright: Lenka Melèáková <http://www.profimagazin.cz>
+- Copyright: Lenka Melèáková <http://www.profimagazin.cz>
 - License: Creative Commons Attribution-NoDerivative Works 3.0
 - License URL: <http://creativecommons.org/licenses/by-nd/3.0/>
 
 #### Creative Commons Logo
 
-- Author/Copyright: Creative Commons
+- Copyright: Creative Commons
 - License: Creative Commons Attribution 3.0
 - License URL: <http://creativecommons.org/licenses/by/3.0/>
