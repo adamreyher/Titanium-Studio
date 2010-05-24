@@ -26,7 +26,7 @@
 				<a href="#" id="nav_contact">Contact</a>
 			  </div>
 			  <div id="logo">
-				  <a href="/" title="Titanium Studio"><img src="./images/ts_head_logo.png" width="350" alt="Titanium Studio" /></a>
+				  <a href="/" title="Titanium Studio"><img src="./images/logos/ts_head_logo.png" width="350" alt="Titanium Studio" /></a>
 			  </div>
 		  </div>
 		  <div id="header-box-home">
@@ -69,10 +69,10 @@
 				  <div class="box" style="float: right; width: 440px;">
 					  <h2>Stay in <span class="accent">Touch</span></h2>
 					  <div id="social-media">
-						  <a href="#" alt="Add us on Facebook"><img src="/images/facebook-64.png" title="Add us on Facebook" alt="Add us on Facebook" /></a>
+						  <a href="#" alt="Add us on Facebook"><img src="/images/icons/facebook-64.png" title="Add us on Facebook" alt="Add us on Facebook" /></a>
 						  <br />
 						  <br />
-						  <a href="#" alt="Follow uso n Twitter"><img src="/images/twitter-64.png" title="Follow us on Twitter" alt="Follow us on Twitter" /></a>
+						  <a href="#" alt="Follow uso n Twitter"><img src="/images/icons/twitter-64.png" title="Follow us on Twitter" alt="Follow us on Twitter" /></a>
 					  </div>
 					  <p>
 						Social media services (such as Facebook, Twitter, and YouTube to name a few) are a key element to developing and maintaing an online brand and a relationship with your customers.
@@ -91,10 +91,10 @@
 		  </div>
 		  <div id="footer">
 			  <div id="copyright">
-				  <img src="/images/cc-16.png" title="Creative Commons BY 3.0" alt="CC BY 3.0" /> Titanium Studio • <a href="http://creativecommons.org/licenses/by/3.0/" alt="CC BY 3.0">CC BY 3.0</a> • <a href="#" alt="Credits">Credits</a>
+				  <img src="/images/icons/cc-16.png" title="Creative Commons BY 3.0" alt="CC BY 3.0" /> Titanium Studio • <a href="http://creativecommons.org/licenses/by/3.0/" alt="CC BY 3.0">CC BY 3.0</a> • <a href="#" alt="Credits">Credits</a>
 			  </div>
 			  <div id="f-contact-info">
-				  <a href="#" alt="Add us on Facebook"><img src="/images/facebook-16.png" alt="Add us on Facebook" title="Add us on Facebook" /></a>&nbsp; <a href="#" alt="Follow us on Twitter"><img src="/images/twitter-16.png" alt="Follow us on Twitter" title="Follow us on Twitter" /></a> • Ph +1 813 466 8480 •  <a href="mailto:info@titaniumstudio.com">info@titaniumstudio.com</a>
+				  <a href="#" alt="Add us on Facebook"><img src="/images/icons/facebook-16.png" alt="Add us on Facebook" title="Add us on Facebook" /></a>&nbsp; <a href="#" alt="Follow us on Twitter"><img src="/images/icons/twitter-16.png" alt="Follow us on Twitter" title="Follow us on Twitter" /></a> • Ph +1 813 466 8480 •  <a href="mailto:info@titaniumstudio.com">info@titaniumstudio.com</a>
 			  </div>
 
 		  </div>

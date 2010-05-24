@@ -5,7 +5,7 @@
 }
 
 body {
-	background: #fff url("../images/bg.gif") no-repeat right top;
+	background: #fff url("../images/main/structure/bg.gif") no-repeat right top;
 	margin: 0;
 	padding: 0;
 	font-family: Helvetica, Arial, sans-serif;
@@ -40,7 +40,7 @@ div#header-box-home {
 	background: #202020;
 	clear: both;
 	text-align: left;
-	background: url(../images/home-orange-1.png) no-repeat;
+	background: url(../images/main/headers/home-orange-1.png) no-repeat;
 }
 div#header-box-home div.content {
 	text-indent: -9999px;
@@ -64,7 +64,7 @@ div#header-box-home div.content h2 {
 	height:94px;
 	margin-right:7px;
 	float:left;
-	background-image:url(../images/nav-sprite.png);
+	background-image:url(../images/main/nav-sprite.png);
 	background-repeat:no-repeat;
 	cursor:pointer;
 }
