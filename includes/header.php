@@ -11,12 +11,13 @@ echo '<?xml version="1.0" encoding="UTF-8"?>';
 	<title>Titanium Studio • <?php echo($pageTitle); ?></title>
 
 	<link rel="shortcut icon" href="/favicon.ico" />
-	<link rel="stylesheet" typle ="text/css" href="/css/master.css" />
+	<link rel="stylesheet" type ="text/css" href="/css/master.css" />
 
 	<script type="text/javascript" src="/lib/js/jquery-1.4.2.min.js"></script>
 	<script type="text/javascript" src="/lib/js/blend/jquery.blend.js"></script>
 	<script type="text/javascript" src="/lib/js/qtip/jquery.qtip-1.0.0-rc3.js"></script>
 	<script type="text/javascript" src="/lib/js/studio.js"></script>
+
   </head>
   <body>
 	  <div id="wrap">
