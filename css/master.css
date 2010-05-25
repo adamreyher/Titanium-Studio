@@ -48,10 +48,10 @@ div#header-box-home, div#header-box-credits {
 	text-align: left;
 }
 div#header-box-home {
-	background: url(../images/main/headers/home-orange-1.png) no-repeat;
+	background: url(../images/main/headers/header-home.jpg) no-repeat;
 }
 div#header-box-credits {
-	background: url(../images/main/headers/header-credits.png) no-repeat;
+	background: url(../images/main/headers/header-credits.jpg) no-repeat;
 }
 div#header-box-home, div#header-box-credits div.content {
 	text-indent: -9999px;
