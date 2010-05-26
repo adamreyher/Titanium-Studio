@@ -36,7 +36,7 @@ require('includes/header.php');
 					  <h2>Source Code <span class="accent">License</span></h2>
 					  <p>
 						  <a href="http://www.opensource.org/licenses/mit-license.php" title="MIT License"><img class="right" src="/images/icons/crystal/info.png" alt="Website Source License" /></a>
-					      The source code of this website is released under the popular <a href="http://www.opensource.org/licenses/mit-license.php" title="MIT License" rel="external">MIT License</a>.
+					      The original source code of this website is released under the popular <a href="http://www.opensource.org/licenses/mit-license.php" title="MIT License" rel="external">MIT License</a>.
 					  </p>
 					  <p>
 						  What does this mean for you? Read the license to find out--it's really short! But basically, as long as you leave our copyright in place, you can use it however you want.

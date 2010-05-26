@@ -1,6 +1,10 @@
 Titanium Studio Website Source License
 ======================================
 
+All Titanium Studio original code is released under the following MIT License. 
+All third-party code which is utilized within this source code may be licensed 
+otherwise, as detailed in CREDITS.markdown.
+
 Source Code
 -----------
 > Copyright (c) 2010 Titanium Studio
