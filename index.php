@@ -32,10 +32,10 @@ require('includes/header.php');
 				  <div class="box" style="float: right; width: 440px;">
 					  <h2>Stay in <span class="accent">Touch</span></h2>
 					  <div id="social-media">
-						  <a href="#"><img src="/images/icons/facebook-64.png" title="Add us on Facebook" alt="Add us on Facebook" /></a>
+						  <a href="http://www.facebook.com/pages/Titanium-Studio/314090419751"><img src="/images/icons/facebook-64.png" title="Add us on Facebook" alt="Add us on Facebook" /></a>
 						  <br />
 						  <br />
-						  <a href="#"><img src="/images/icons/twitter-64.png" title="Follow us on Twitter" alt="Follow us on Twitter" /></a>
+						  <a href="http://twitter.com/titaniumstudio"><img src="/images/icons/twitter-64.png" title="Follow us on Twitter" alt="Follow us on Twitter" /></a>
 					  </div>
 					  <p>
 						Social media services (such as Facebook, Twitter, and YouTube to name a few) are a key element to developing and maintaing an online brand and a relationship with your customers.
