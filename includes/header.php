@@ -24,7 +24,7 @@ echo '<?xml version="1.0" encoding="UTF-8"?>';
 		  <div id="header">
 			  <div class="nav" id="nav">
 				<a href="/" id="nav_home">Home</a>
-				<a href="#" id="nav_services">Services</a>
+				<a href="/services/" id="nav_services">Services</a>
 				<a href="#" id="nav_portfolio">Portfolio</a>
 				<a href="#" id="nav_community">Community</a>
 				<a href="#" id="nav_contact">Contact</a>

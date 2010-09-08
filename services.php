@@ -1,24 +1,24 @@
-<?php 
+<?php
 
-/* 
+/*
  * Page variables
  */
 
-$pageTitle = (string) 'Marketing through design and social media';
+$pageTitle = (string) 'Custom-tailored services with attention to detail';
 
 require('includes/header.php');
 ?>
-		  <div id="header-box-home">
+		  <div id="header-box-services">
 			  <div class="content">
-				  <h2>What We Do</h2>
+				  <h2>Services</h2>
 				  <p>
-					  Titanium Studio provides custom-tailored services to each and every client, ranging from full website design and development, to social media consulting.
+					  The most important part of a trip is the journey. It’s the journey that defines our services and who we are. Enjoy the ride.
 				  </p>
 				  <p>
-					  We work with your company to develop a marketing strategy that puts your online presence at the center of attention, ensuring the highest customer loyalty.
+					  We work with each and every client from the very beginning to establish a complete online marketing strategy and online presence that fits your business with an incredible attention to detail.
 				  </p>
 			  </div>
-			  
+
 		  </div>
 		  <div id="body">
 			  <?php require('includes/iewarning.php'); ?>
