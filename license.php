@@ -119,6 +119,12 @@ require('includes/header.php');
 						  <li><strong>License:</strong> Creative Commons Attribution-NoDerivative Works 3.0</li>
 						  <li><strong>License URL:</strong> <a href="http://creativecommons.org/licenses/by-nd/3.0/" rel="external">http://creativecommons.org/licenses/by-nd/3.0/</a></li>
 					  </ul>
+                                          <h3 class="arrow">"Torcher Galaxy"</h3>
+                                          <ul class="credits">
+                                              <li><strong>Copyright:</strong> GikuZimbrothers4ever <a href="http://gikuzimbrothers4ever.deviantart.com/art/Torcher-Galaxy-130835726" rel="external">http://gikuzimbrothers4ever.deviantart.com/art/Torcher-Galaxy-130835726</a></li>
+                                              <li><strong>License:</strong> Creative Commons Attribution-NonCommercial-NoDerivative Works 3.0</li>
+                                              <li><strong>License URL:</strong> <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/" rel="external">http://creativecommons.org/licenses/by-nc-nd/3.0/</a></li>
+                                          </ul>
 					  <h3 class="arrow">"New Frontiers"</h3>
 					  <ul class="credits">
 						  <li><strong>Copyright:</strong> azrainman <a href="http://azrainman.deviantart.com/art/New-Frontiers-104637199" rel="external">http://azrainman.deviantart.com/art/New-Frontiers-104637199</a></li>

@@ -48,6 +48,12 @@ bubble tips, and best of all... it's completely free under the MIT license!
 - License: Creative Commons Attribution-NoDerivative Works 3.0
 - License URL: <http://creativecommons.org/licenses/by-nd/3.0/>
 
+#### Torcher Galaxy
+
+- Copyright: GikuZimbrothers4ever <http://gikuzimbrothers4ever.deviantart.com/art/Torcher-Galaxy-130835726>
+- License: Creative Commons Attribution-NonCommercial-NoDerivative Works 3.0
+- License URL: <http://creativecommons.org/licenses/by-nc-nd/3.0/>
+
 #### New Frontiers
 
 - Copyright: azrainman <http://azrainman.deviantart.com/art/New-Frontiers-104637199>
