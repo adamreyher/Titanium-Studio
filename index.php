@@ -18,18 +18,17 @@ require('includes/header.php');
 					  We work with your company to develop a marketing strategy that puts your online presence at the center of attention, ensuring the highest customer loyalty.
 				  </p>
 			  </div>
-			  
 		  </div>
 		  <div id="body">
 			  <?php require('includes/iewarning.php'); ?>
 			  <div class="encase">
-				  <div class="box" style="float: left; width: 440px;">
+				  <div class="box box-left">
 					  <h2>Marketing by <span class="accent">Design</span></h2>
 					  <p>
 						  Aesthetic. Affordant. Identifying unique needs to build end-to-end solutions. These are just a few of our marketing philosophies. Titanium Studio specializes in identifying your company's target audience and developing a website and social media marketing strategy that not only puts you in contact with your customers, but more importantly enables <strong>two-way communication</strong>.
 					  </p>
 				  </div>
-				  <div class="box" style="float: right; width: 440px;">
+				  <div class="box box-right">
 					  <h2>Stay in <span class="accent">Touch</span></h2>
 					  <div id="social-media">
 						  <a href="http://www.facebook.com/pages/Titanium-Studio/314090419751"><img src="/images/icons/facebook-64.png" title="Add us on Facebook" alt="Add us on Facebook" /></a>

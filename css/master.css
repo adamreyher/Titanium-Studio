@@ -176,6 +176,14 @@ div#body h3 {
 div.box {
 	padding-bottom: 20px;
 }
+div.box-left {
+    float: left;
+    width: 440px;
+}
+div.box-right {
+    float: right;
+    width: 440px;
+}
 
 div.encase {
 	clear: both;
@@ -195,7 +203,7 @@ img.left {
 	margin: 0em 1.2em 0em 0;
 }
 
-h3.arrow {
+.arrow {
 	padding-left: 25px;
 	background: url(../images/icons/crystal/1rightarrow.png) no-repeat center left;
 	margin: 20px 0 20px 0;
@@ -206,6 +214,43 @@ div#body ul.credits {
 }
 div#body ul.credits a {
 	font-size: 1em;
+}
+
+/*
+ *  Services Page
+ */
+div#services-menu {
+     float: left;
+     width: 200px;
+}
+
+
+div#services-detail {
+     float: left;
+     width: 520px;
+}
+
+/*
+ *  Services List
+ */
+
+ul#services-list li {
+     list-style-type: none;
+     line-height: 1.2em;
+     margin-top: -10px;
+}
+
+ul#services-list li h4.selected {
+	padding-left: 22px;
+	background: url(../images/icons/crystal/1rightarrow.png) no-repeat center left;
+	margin: 20px 0 20px -3px;
+}
+ul#services-list h4 {
+    padding-left: 22px;
+    margin: 20px 0 20px -3px;
+}
+ul#services-list h4 a {
+    font-size: 1.0em;
 }
 
 /*
@@ -257,4 +302,8 @@ div#copyright img, div#f-contact-info img {
 
  div#iewarning {
 	 margin-bottom: 20px;
+}
+
+.clear {
+    clear: both;
 }

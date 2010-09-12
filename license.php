@@ -22,7 +22,7 @@ require('includes/header.php');
 		  <div id="body">
 			  <?php require('includes/iewarning.php'); ?>
 			  <div class="encase">
-				  <div class="box" style="float: left; width: 440px;">
+				  <div class="box box-left">
 					  <h2>Website <span class="accent">Source Code</span></h2>
 					  <p>
 						  <a href="http://github.com/adamreyher/Titanium-Studio" title="Repository @ GitHub"><img class="right" src="/images/icons/thisisart/Coding.png" alt="Repository @ Github" /></a>
@@ -32,7 +32,7 @@ require('includes/header.php');
 						  What's Git? Check out the free <a href="http://progit.org/book/" title="Pro Git" rel="external">Pro Git</a> book.
 					  </p>
 				  </div>
-				  <div class="box" style="float: right; width: 440px;">
+				  <div class="box box-right">
 					  <h2>Source Code <span class="accent">License</span></h2>
 					  <p>
 						  <a href="http://www.opensource.org/licenses/mit-license.php" title="MIT License"><img class="right" src="/images/icons/crystal/info.png" alt="Website Source License" /></a>
@@ -44,7 +44,7 @@ require('includes/header.php');
 				  </div>
 			  </div>
 			  <div class="encase">
-				  <div class="box" style="float:left; width: 440px;">
+				  <div class="box box-left">
 					  <h2><a name="output">Output <span class="accent">Content</span></a></h2>
 					  <p>
 						  <img class="right" src="/images/icons/crystal/looknfeel.png" alt="Output Content"/>
@@ -54,7 +54,7 @@ require('includes/header.php');
 						  For third-party images/icons and their respective licenses, please see <a href="#images-icons" rel="anchor" class="nofade">Images &amp; Icons</a>.
 					  </p>
 				  </div>
-				  <div class="box" style="float:right; width: 440px;">
+				  <div class="box box-right">
 					  <h2><a name="phpBB">Forum <span class="accent">Software</span></a></h2>
 					  <p>
 						  <img class="right" src="/images/icons/phpbb_blue.png" width="160" alt="phpBB"/>
