@@ -48,7 +48,7 @@ require('includes/header.php');
 					  <h2><a name="output">Output <span class="accent">Content</span></a></h2>
 					  <p>
 						  <img class="right" src="/images/icons/crystal/looknfeel.png" alt="Output Content"/>
-						  The output of this website (ie. what's displayed on the screen) is covered under a different license than the source code and markup. Unless otherwise noted below, the content of this website is released under the <a href="http://creativecommons.org/licenses/by/3.0/" rel="external">Creative Commons Attribution 3.0</a> license.
+						  The output of this website (ie. what's displayed on the screen) is covered under a different license than the source code and markup. Unless otherwise noted below, the content of this website is released under the <a href="http://creativecommons.org/licenses/by-sa/3.0/" rel="external">Creative Commons Attribution-ShareAlike 3.0</a> license.
 					  </p>
 					  <p>
 						  For third-party images/icons and their respective licenses, please see <a href="#images-icons" rel="anchor" class="nofade">Images &amp; Icons</a>.
