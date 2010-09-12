@@ -26,9 +26,9 @@ prior to 7.
 Licensing
 ---------
 
-Please see LICENSE.md for full licensing details of this source code.
+Please see LICENSE for full licensing details of this source code.
 
 Credits
 -------
 
-Please see CREDITS.md for full source credits.
+Please see CREDITS for full source credits.
