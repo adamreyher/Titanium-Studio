@@ -10,12 +10,8 @@ require('includes/header.php');
 			<div id="header-box-home">
 				<div class="content">
 					<h2>What We Do</h2>
-					<p>
-								  Titanium Studio provides custom-tailored services to each and every client, ranging from full website design and development, to social media consulting.
-					</p>
-					<p>
-								  We work with your company to develop a marketing strategy that puts your online presence at the center of attention, ensuring the highest customer loyalty.
-					</p>
+					<p>Titanium Studio provides custom-tailored services to each and every client, ranging from full website design and development, to social media consulting.</p>
+					<p>We work with your company to develop a marketing strategy that puts your online presence at the center of attention, ensuring the highest customer loyalty.</p>
 				</div>
 			</div>
 			<div id="body">

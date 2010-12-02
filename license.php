@@ -10,12 +10,8 @@ require('includes/header.php');
 			<div id="header-box-credits">
 				<div class="content">
 					<h2>Licensing &amp; Credits</h2>
-					<p>
-								  We are a firm believer in sharing creative work freely with other people and giving full credit where it is deserved.  That’s good favor.
-					</p>
-					<p>
-								  Below you will find a comprehensive list of our website’s source, markup, and content licenses, as well as all third-party code and creative work utilized by this website.
-					</p>
+					<p>We are a firm believer in sharing creative work freely with other people and giving full credit where it is deserved.  That’s good favor.</p>
+					<p>Below you will find a comprehensive list of our website’s source, markup, and content licenses, as well as all third-party code and creative work utilized by this website.</p>
 				</div>
 			</div>
 			<div id="body">
