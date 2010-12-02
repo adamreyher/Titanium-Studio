@@ -39,7 +39,9 @@ require('includes/header.php');
 						</div>
 
 					</div>
+				<div style="clear:both;"></div>
 				</div>
+				
 			</div>
 			<?php
 				require("includes/footer.php");

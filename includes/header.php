@@ -11,7 +11,7 @@
 		<script type="text/javascript" src="/lib/js/jquery-1.4.2.min.js"></script>
 		<script type="text/javascript" src="/lib/js/blend/jquery.blend.js"></script>
 		<script type="text/javascript" src="/lib/js/qtip/jquery.qtip-1.0.0-rc3.js"></script>
-		<script type="text/javascript" src="/lib/js/scroll-follow/jquery.scroll-follow.js"></script>
+
 		<script type="text/javascript" src="/lib/js/studio.js"></script>
 
 	</head>
