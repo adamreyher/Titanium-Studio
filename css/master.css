@@ -172,7 +172,7 @@ div#body h2.plain {
 	border-bottom: 0;
 }
 div#body h3 {
-	font-size: 1.5em;
+	font-size: 1.2em;
 	font-weight: normal;
 }
 
@@ -236,21 +236,22 @@ div#services-detail {
 /*
  *  Services List
 */
-
+ul#services-list {
+	margin-left: 20px;
+}
 ul#services-list li {
-	list-style-type: none;
 	line-height: 1.2em;
 	margin-top: -10px;
 }
 
 ul#services-list li h4.selected {
-	padding-left: 22px;
+	padding-left: 0px;
 	background: url(../images/icons/crystal/1rightarrow.png) no-repeat center left;
-	margin: 20px 0 20px 7px;
+	margin: 20px 0 5px 20px;
 }
 ul#services-list h4 {
-    padding-left: 22px;
-    margin: 20px 0 20px 7px;
+    padding-left: 0px;
+    margin: 20px 0 5px 0px;
 }
 ul#services-list h4 a {
     font-size: 1.0em;
