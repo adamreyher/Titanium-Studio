@@ -17,20 +17,22 @@ require('includes/header.php');
 			<div id="body">
 				<?php require('includes/iewarning.php'); ?>
 				<div class="encase">
-
-					<ul id="services-list">
-						<li id="li-design"><h4 class="design"><a href="#design">Web Design</a></h4></li>
-						<li id="li-consulting"><h4 class="consulting"><a href="#consulting">Consulting</a></h4></li>
-					</ul>
-					<div id="services-left">
-						<h2 class="plain">Web <span class="accent">Design</span></h2>
+					<div id="services-menu">
+						<h2 class="plain">Services</h2>
+						<ul id="services-list">
+							<li id="li-design"><h4 class="design"><a href="#design" rel="anchor">Web Design</a></h4></li>
+							<li id="li-consulting"><h4 class="consulting"><a href="#consulting" rel="anchor">Consulting</a></h4></li>
+						</ul>
 					</div>
 					<div id="services-detail">
 						<div id="services-detail-design">
+							<a name="design"></a>
+							<h2><span class="accent">Web</span> Design</h2>
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris placerat augue a ligula mattis id varius orci mattis. Nam ut ultrices eros. Duis elit sem, pretium quis vulputate in, congue eu arcu. Suspendisse et risus metus, eget euismod mi. </p>
 							<p>Aliquam vehicula metus vel dui dictum et accumsan dolor suscipit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec at posuere elit. Integer nec elementum arcu. Maecenas placerat gravida malesuada. </p>
 						</div>
 						<div id="services-detail-consulting">
+							<a name="consulting"></a>
 							<h2>Consulting</h2>
 							<p>Suspendisse pellentesque, lorem at vestibulum venenatis, massa risus pulvinar tellus, sit amet ultrices sem eros volutpat quam. Quisque lobortis, neque non vulputate dapibus, lacus dolor dignissim diam, ut malesuada turpis ipsum et quam.</p>
 							<p>Etiam malesuada, nisl ut pulvinar dictum, purus metus egestas ante, a condimentum turpis sapien condimentum eros. In in consequat diam. Mauris volutpat sodales velit, ac mattis risus pellentesque at. Nunc accumsan velit ac arcu pharetra id tincidunt elit imperdiet. Nunc sit amet urna neque. </p>

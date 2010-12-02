@@ -222,10 +222,9 @@ div#body ul.credits a {
 /*
  *  Services Page
 */
-div#services-left {
+div#services-menu {
 	float: left;
-	width: 300px;
-	clear: both;
+	width: 270px;
 }
 
 
@@ -239,7 +238,6 @@ div#services-detail {
 */
 
 ul#services-list li {
-	float: left;
 	list-style-type: none;
 	line-height: 1.2em;
 	margin-top: -10px;

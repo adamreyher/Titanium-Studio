@@ -99,6 +99,13 @@ require('includes/header.php');
 							<li><strong>License:</strong> MIT License</li>
 							<li><strong>License URL:</strong> <a href="http://www.opensource.org/licenses/mit-license.php" rel="external">http://www.opensource.org/licenses/mit-license.php</a></li>
 						</ul>
+						<h3 class="arrow">Scroll Follow</h3>
+						<p>Scroll Follow is a simple jQuery plugin that enables a DOM object to follow the page as the user scrolls.</p>
+						<ul class="credits">
+							<li><strong>Copyright:</strong> 2008, Net Perspective <a href="http://kitchen.net-perspective.com/" rel="external">http://kitchen.net-perspective.com/</a></li>
+							<li><strong>License:</strong> MIT License</li>
+							<li><strong>License URL:</strong> <a href="http://www.opensource.org/licenses/mit-license.php" rel="external">http://www.opensource.org/licenses/mit-license.php</a></li>
+						</ul>
 					</div>
 				</div>
 				<div class="encase">
