@@ -14,7 +14,9 @@ body {
 	color: #666;
 	height: 100%;
 }
-a:link, a:visited, a:active {
+a:link, 
+a:visited, 
+a:active {
 	font-size: 0.9em;
 	color: #003c6a;
 	font-weight: bold;
@@ -40,7 +42,9 @@ div#header {
 	margin-bottom: 0;
 	float: left;
 }
-div#header-box-home, div#header-box-credits, div#header-box-services {
+div#header-box-home, 
+div#header-box-credits, 
+div#header-box-services {
 	width: 940px;
 	height: 300px;
 	background: #202020;
@@ -56,7 +60,9 @@ div#header-box-credits {
 div#header-box-services {
 	background: url(../images/main/headers/header-services.jpg) no-repeat;
 }
-div#header-box-home, div#header-box-credits, div#header-box-services div.content {
+div#header-box-home, 
+div#header-box-credits, 
+div#header-box-services div.content {
 	text-indent: -9999px;
 }
 
@@ -87,7 +93,8 @@ div#header-box-home, div#header-box-credits, div#header-box-services div.content
 	width: 74px;
 	background-position:-20px 0;
 }
-#nav_home:hover, #nav_home.hover {
+#nav_home:hover, 
+#nav_home.hover {
 	background-position:-20px -94px;
 }
 
@@ -95,7 +102,8 @@ div#header-box-home, div#header-box-credits, div#header-box-services div.content
 	width: 90px;
 	background-position:-104px 0;
 }
-#nav_services:hover, #nav_services.hover {
+#nav_services:hover, 
+#nav_services.hover {
 	background-position: -104px -94px;
 }
 
@@ -103,7 +111,8 @@ div#header-box-home, div#header-box-credits, div#header-box-services div.content
 	width: 86px;
 	background-position: -204px 0;
 }
-#nav_portfolio:hover, #nav_portfolio.hover {
+#nav_portfolio:hover, 
+#nav_portfolio.hover {
 	background-position: -204px -94px;
 }
 
@@ -111,14 +120,16 @@ div#header-box-home, div#header-box-credits, div#header-box-services div.content
 	width: 110px;
 	background-position: -302px 0;
 }
-#nav_community:hover, #nav_community.hover {
+#nav_community:hover, 
+#nav_community.hover {
 	background-position: -302px -94px;
 }
 #nav_contact {
 	width: 94px;
 	background-position: -425px 0;
 }
-#nav_contact:hover, #nav_contact.hover {
+#nav_contact:hover, 
+#nav_contact.hover {
 	background-position: -425px -94px;
 }
 
@@ -284,7 +295,9 @@ div#footer {
 	line-height: 1.1em;
 
 }
-div#footer a, div#footer a:visited, div#footer a:active {
+div#footer a, 
+div#footer a:visited, 
+div#footer a:active {
 	font-size: 1em;
 	font-weight: normal;
 	text-decoration: underline;
@@ -296,7 +309,8 @@ div#copyright {
 div#f-contact-info {
 	float: right;
 }
-div#copyright img, div#f-contact-info img {
+div#copyright img, 
+div#f-contact-info img {
 	vertical-align: text-top;
 }
 
